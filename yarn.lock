@@ -2250,12 +2250,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@netlify/functions@npm:^0.9.0":
-  version: 0.9.0
-  resolution: "@netlify/functions@npm:0.9.0"
+"@netlify/functions@npm:^0.10.0":
+  version: 0.10.0
+  resolution: "@netlify/functions@npm:0.10.0"
   dependencies:
     is-promise: ^4.0.0
-  checksum: a78f519bafe2d00b2280dbd5a76d35517535d38347932d28ad3efd203331ff16e0ca6dc82c63db6774c5f96b7ad71eeb55863ff1ce67320e19fdb59ade6c28be
+  checksum: 9bfa6e4326e7af19ee22dfd38065d2734e08a00618603808ee6fa8e2f84ba342d42ffee8630af1611b40a27bb3e87c213183cfb24a4de871a3cab979d4b5211a
   languageName: node
   linkType: hard
 
@@ -2787,7 +2787,7 @@ __metadata:
   resolution: "@nuxt/nitro@workspace:packages/nitro"
   dependencies:
     "@cloudflare/kv-asset-handler": ^0.2.0
-    "@netlify/functions": ^0.9.0
+    "@netlify/functions": ^0.10.0
     "@nuxt/design": 0.1.5
     "@nuxt/devalue": ^2.0.0
     "@nuxt/kit": 3.0.0
@@ -2830,7 +2830,7 @@ __metadata:
     mime: ^3.0.0
     mlly: ^0.3.13
     node-fetch: ^3.1.0
-    ohmyfetch: ^0.4.7
+    ohmyfetch: ^0.4.8
     ora: ^6.0.1
     p-debounce: ^4.0.0
     pathe: ^0.2.0
@@ -15304,7 +15304,7 @@ __metadata:
     mlly: ^0.3.13
     murmurhash-es: ^0.1.1
     nuxi: 3.0.0
-    ohmyfetch: ^0.4.7
+    ohmyfetch: ^0.4.8
     pathe: ^0.2.0
     scule: ^0.2.1
     ufo: ^0.7.9
@@ -15454,15 +15454,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ohmyfetch@npm:^0.4.7":
-  version: 0.4.7
-  resolution: "ohmyfetch@npm:0.4.7"
+"ohmyfetch@npm:^0.4.8":
+  version: 0.4.8
+  resolution: "ohmyfetch@npm:0.4.8"
   dependencies:
     destr: ^1.1.0
     node-fetch: ^3.0.0
     ufo: ^0.7.9
     undici: ^4.9.5
-  checksum: 456ef4d22700f854c666448ccecef27c6194ee47211d90a12bd1fb1a1a12a4badfc0e67471d2c6ed65ee06352edc907027c88ad323e77dd6e616439dba92bab2
+  checksum: 2804d315aca270f2d1cd86e0ab29e414e64baefa5a4d4b58626b905ad10af60db89e486e81269a539dba3a6b3e19da9ec771886e487498070e9833bbb4985a11
   languageName: node
   linkType: hard
 
